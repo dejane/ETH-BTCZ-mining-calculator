@@ -1,0 +1,12 @@
+eth_stats = {
+    "id": 1,
+    "name": "ETH",
+    "price_usd": 586.188,
+    "price_eur": 502.08760764,
+    "price_btc": 0.0786799,
+    "dificutly": 3192274992338210,
+    "networkhash": 209887423376247,
+    "block_time": 15.3103,
+    "block_revard": 2.91000000000003,
+    "last_update": "25.05.2018 20:49:31"
+}
